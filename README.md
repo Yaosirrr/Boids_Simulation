@@ -9,7 +9,7 @@ This is a course project for ECE6563 at Georgia Tech, most of the codes are copi
 2. Clone the repo or download all the files in this repo, put them into the same folder
 3. Run the following command `python main.py`
 
-## Arguments
+## Parameters
 When run `python main.py`, you can also personalized your arguments. This program supports -
 1. The number of 'birds', the format is --number <number_you_want>
 2. The fontsize of the pygame window, the format is --geometry <500x500>
