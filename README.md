@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a course project for ECE6563 at Georgia Tech, most of the codes are copied from https://github.com/meznak/boids_py by meznak.
+This is a course project for ECE6563 at Georgia Tech, most of the codes are referenced from https://github.com/meznak/boids_py by meznak.
 
 ## How to run the simulation
 1. Make sure you installed python and pygame. To install pygame, simply run `pip install pygame`.
